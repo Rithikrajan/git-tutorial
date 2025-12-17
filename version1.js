@@ -1,2 +1,2 @@
-console.log("Version 5");
-console.log("version 5");
+console.log("Version 6");
+console.log("version 6");
